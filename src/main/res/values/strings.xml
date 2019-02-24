@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Distance Converter</string>
+    <string name="DistanceUnitConverter">Distance Unit Converter</string>
+    <string name="Kilometre">Kilometre</string>
+    <string name="km">km</string>
+    <string name="Metre">Metre</string>
+    <string name="m">m</string>
+    <string name="Miles">Miles</string>
+    <string name="miles">miles</string>
+    <string name="Clear">Clear</string>
+    <string name="Convert">Convert</string>
+</resources>
